@@ -40,7 +40,7 @@ This repository documents my laboratory experiment in Computer Engineering, wher
 ---
 
 ## 📂 Repository Contents
-- `truth-table/` → [View ](experiment-1-logic-gate-design/Trilles_K-Map_ASSIGNMENT.pdf)
+- `truth-table/` → [View ](experiment-1-logic-gate-design/Trilles_SQ1-20260222T133014Z-3-001.zip)
 - `logic-gates-design/` → SQ2 AutoCAD draft and final schematic[View ](LogivGateDesign/Trilles_K-Map_ASSIGNMENT.pdf)
 - `kmap/` → K-map simplification steps [View PDF](K-Map/Trilles_K-Map_ASSIGNMENT.pdf)
 - `nand-conversion/` → SLC NAND-only circuit
