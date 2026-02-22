@@ -45,7 +45,7 @@ This repository documents my laboratory experiment in Computer Engineering, wher
 - `logic-gates-design/` → Final Drafr / final schematic[View ](final-draft/TRILLES-Experiment1_Final.pdf)
 - `kmap/` → K-map simplification steps [View PDF](K-Map/Trilles_K-Map_ASSIGNMENT.pdf)
 - `logic-gates-design/` → Using Tabular Method [View ](tabular/TRILLES_TabularMethod.jpg)
-- `nand-conversion/` → SLC NAND-only circuit
+- `nand-conversion/` → Conversion To NAND Gate[View ](Conver-To-NAND-gate/TRILLES_3A_NANDGATES.jpg)
 - `final-output/` → Photos of breadboard and IC implementation
 
 ---
